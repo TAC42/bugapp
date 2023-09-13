@@ -1,0 +1,16 @@
+
+.bug-edit {
+    min-height: 60vh;
+    margin-block-start: 1em;
+    background-color: var(--clr2);
+    padding: 12px;
+}
+
+.bug-edit-form > * {
+    width: 300px;
+    margin-block-end: 1em ;
+}
+
+.bug-edit-form .description {
+    height: 100px;
+}

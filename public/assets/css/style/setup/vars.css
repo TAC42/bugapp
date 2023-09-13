@@ -1,0 +1,14 @@
+:root {
+  --clr1: #31818f; /* header */
+  --clr2: #577D86; /* hover btn */
+
+  --clr1bg: #569DAA; /* bgc book preview */
+  --clr1bg-light: rgb(205, 221, 200);
+  --clr2bg: #B9EDDD; /* btn , filter bgc */
+  --clr2bg-light: rgb(43, 43, 43); /* header txt */
+  --clr3bg: #87CBB9;
+  --clr3bg-light: #dcf5ee;
+ 
+  --clrTxt: rgb(43, 43, 43); /* color text */
+
+} 

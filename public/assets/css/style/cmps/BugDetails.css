@@ -1,0 +1,32 @@
+.bug-details {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background-color: var(--clr3bg-light);
+    padding-inline-start: 12px;
+}
+.bug-details h1 {
+    color: var(--clr1);
+    font-size: 2em;
+    
+}
+.bug-details h3 {
+    color: var(--clr1bg);
+}
+.bug-details img {
+    max-width: 300px;
+    display: block;
+    margin: auto;
+}
+
+.bug-details .red {
+    color: rgb(255, 46, 46);
+}
+.bug-details .green {
+    color: rgb(90, 255, 90);
+}
+
+.bug-details .on-sale {
+    font-size: 20px;
+    background-color: rgb(88, 255, 76);
+} 
